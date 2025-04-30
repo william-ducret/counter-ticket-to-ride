@@ -5,7 +5,7 @@ One must use a camera to take a picture and import it in this code. Using the li
 
 Project name : Zug Counter
 
-GitHub name : counter-tocket-to-ride
+GitHub name : counter-ticket-to-ride
 
 
 | Item | Status |
