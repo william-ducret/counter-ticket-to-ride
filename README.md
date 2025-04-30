@@ -3,6 +3,10 @@ Abstract
 The aim of this code is to count automatically the points at the end (or during) a game of the boardgame "Ticket to Ride".
 One must use a camera to take a picture and import it in this code. Using the library open-cv for image processing, this code would analyse the image and the detect the wagons.
 
+Project name : Zug Counter
+
+GitHub name : counter-tocket-to-ride
+
 
 | Item | Status |
 | ----------- | ----------- |
